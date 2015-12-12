@@ -13,6 +13,7 @@ caching-compiler@1.0.1-modules.0
 caching-html-compiler@1.0.3-modules.0
 callback-hook@1.0.5-modules.0
 check@1.1.1-modules.0
+chuangbo:marked@0.3.5_1
 ddp@1.2.2
 ddp-client@1.2.2-modules.0
 ddp-common@1.2.2
