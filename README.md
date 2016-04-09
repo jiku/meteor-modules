@@ -5,7 +5,7 @@ Repro steps
 ```
 git clone https://github.com/jiku/meteor-tests.git \
 & cd meteor-tests \
-& git checkout packages/lalomartins:markd/1.3.2-rc.0 \
+& git checkout packages/lalomartins-markd/1.3.2-rc.0 \
 & meteor
 ```
 
